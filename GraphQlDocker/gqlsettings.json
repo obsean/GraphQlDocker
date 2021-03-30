@@ -1,0 +1,5 @@
+{
+  "template": "CSharp.template",
+  "schema": "graphqlschema.json",
+  "root": true
+}

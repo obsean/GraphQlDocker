@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GraphQlDocker": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
